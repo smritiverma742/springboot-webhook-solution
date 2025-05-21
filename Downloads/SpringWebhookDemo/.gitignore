@@ -1,0 +1,31 @@
+# Gradle build files (if using Gradle)
+.gradle/
+build/
+
+# Maven build files (if using Maven)
+target/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# VS Code files
+.vscode/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Windows system folders (ignore)
+AppData/
+Cookies/
+Temporary Internet Files/
+Local Settings/
+Recent/
+SendTo/
+Start Menu/
+PrintHood/
+NetHood/
+
+# Others
+out/
